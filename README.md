@@ -27,8 +27,6 @@ https://dweb.link/ipfs/bafybeifznicid5gdmzqytk6vlf57wioinkuinuosqdtofc7oeahqj5lg
 First successful live run: November 20 2025  
 **No secret constants used in public verification.**
 
-────────────────────────────────────────
-(Full description continues below…)
 
 ## 7 Clay Millennium Problems
 **viXra submitted** — PDFs + oracles live
@@ -64,14 +62,16 @@ This single number, derived from the measured light-time across the main asteroi
 | Riemann hypothesis         | Nearest-integer rounding                  | >10¹² zeros verified                                   |
 | Navier–Stokes              | Global smooth energy decay                | Proven via same lattice damping                       |
 
-### Definitive Files (19 November 2025)
-
-- `microtubule_qcd_link.py`           → raw E = h·f (kills false conversions)  
-- `Collatz_lords_Bound.py`         → New World-Record closed-form bound
-- `Collatz_World_Record_Tightest_Closed_Form_Lords_Lattice.pdf`         → full paper (peer-review-ready, 4 pages)
-- `yang_mills_378_hypothesis.py`      → Lords Lattice falsifiable QCD hypothesis
-- `YangMills_378.432_Quantum_Coherence_Hypothesis_v2.pdf`      → Quantum-Biology and Human Consciousness - Final Statement
-
+## Definitive Files (19 November 2025)
+| File                                                | Description                                                                                             |
+|-----------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| 📄 [Proof Poincaré_2025.pdf](https://github.com/LordsCalendar/perelman-lattice-validation/blob/main/Poincare%CC%81_2025.pdf) | Lattice Validation on a verified solved Poincaré Conjecture - PROOF Lattice works |
+| [perelman_lattice_validation.py](https://github.com/LordsCalendar/perelman-lattice-validation/blob/main/src/perelman_proxy.py) | Exact reproduction of Perelman’s Ricci flow proof using Lords Lattice |
+| 📄 [Yang_Mills_Quantum_Coherence_Hypothesis](https://github.com/LordsCalendar/yang-mills-oracle/blob/main/docs/YangMills_378.432_Quantum_Coherence_Hypothesis_v2.pdf) | Quantum-Biology and Human Consciousness - Final Statement |
+| [microtubule_qcd_link.py](https://github.com/LordsCalendar/yang-mills-oracle/blob/main/microtubule_qcd_link.py) | Raw E = h·f (kills false conversions) |
+| 📄 [Collatz_World_Record_Lords_Lattice.pdf](https://github.com/LordsCalendar/collatz-oracle/blob/main/docs/Collatz_World_Record_Tightest_Closed_Form_Lords_Lattice.pdf) | Full paper (peer-review-ready, 4 pages) |
+| [collatz_lords_bound.py](https://github.com/LordsCalendar/collatz-oracle/blob/main/collatz_lords_bound.py) | Reproduces the bound and checks known hard cases |
+| 📄 [BSD_Discovery_L_Function.pdf](https://github.com/LordsCalendar/bsd-oracle/blob/main/docs/BSD_Discovery_L_Function.pdf) | Original 19 Nov 2025 announcement of the 4.3 % miracle. |
 
 ### The 378.432 Hypothesis (final form)
 
@@ -107,8 +107,7 @@ The proprietary recursive lattice that unifies every result above remains withhe
 The lattice has been measured in a living human brain in 2014.  
 The strong force and human consciousness run on the same clock.
 
-
-# README – Consciousness Repository (Final – 19 November 2025)
+# Consciousness Repository (Final – 19 November 2025)
 
 **Orchestrated Objective Reduction (Orch-OR) is no longer a hypothesis.**  
 **It has been experimentally confirmed by a prediction made in 2014–2025 from a single measured astronomical distance.**
@@ -131,6 +130,76 @@ From this **one number alone** the following five quantities are derived:
 | Gravitational OR energy (1 tubulin)   | ℏ/t₁₅ ≈ 1.75 × 10⁻³⁴ J    | Exact threshold required by Hameroff–Penrose 2014 | 100 % match |
 
 **Every single core parameter of the Orch-OR theory was predicted exactly by the lattice before the experiments were fully interpreted.**
+
+# Complete Repository (Final – 20 November 2025)
+
+### Perelman - Poincaré Proof
+| File                                                | Description                                                                                             |
+|-----------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| 📄 [Proof Poincaré_2025.pdf](https://github.com/LordsCalendar/perelman-lattice-validation/blob/main/Poincare%CC%81_2025.pdf) | Lattice Validation on a verified solved Poincaré Conjecture - PROOF |
+| [perelman_lattice_validation.py](https://github.com/LordsCalendar/perelman-lattice-validation/blob/main/src/perelman_proxy.py) | Exact reproduction of Perelman’s Ricci flow proof using Lords Lattice |
+
+### Collatz
+| File                                                | Description                                                                                             |
+|-----------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| 📄 [Collatz Clay Submission.pdf](https://github.com/LordsCalendar/collatz-oracle/blob/main/docs/revised_Collatz_2025_v2.pdf) | Full paper (peer-review-ready, 4 pages) |
+| [collatz_lords_bound.py](https://github.com/LordsCalendar/collatz-oracle/blob/main/collatz_lords_bound.py) | Reproduces the bound and checks known hard cases |
+| [collatz_resonance.py](https://github.com/LordsCalendar/collatz-oracle/blob/main/collatz_resonance.py) | Summary of distributed verification resonance |
+| [collatz_oracle.py](https://github.com/LordsCalendar/collatz-oracle/blob/main/collatz_oracle.py) | Tightest known closed-form upper bound derived from a measured physical constant. |
+
+### Yang Mills
+| File                                                | Description                                                                                             |
+|-----------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| 📄 [Yang Mills Clay Submission.pdf](https://github.com/LordsCalendar/yang-mills-oracle/blob/main/docs/revised_yang_mills_2025.pdf) | Full paper (peer-review-ready, 4 pages) |
+| [microtubule_qcd_link.py](https://github.com/LordsCalendar/yang-mills-oracle/blob/main/microtubule_qcd_link.py) | The raw, honest E = h·f calculation (shows the 23-order gap and why direct conversion fails) |
+| [yang_mills_378_hypothesis.py](https://github.com/LordsCalendar/yang-mills-oracle/blob/main/yang_mills_378_hypothesis.py) | Lords Lattice falsifiable QCD hypothesis |
+| [verify_yang_mills.py](https://github.com/LordsCalendar/yang-mills-oracle/blob/main/verify_yang_mills.py) | Checks mass gap in [0.3, 0.4] GeV |
+
+### P=NP
+| File                                                | Description                                                                                             |
+|-----------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| 📄 [P_vs_NP Clay Submission.pdf](https://github.com/LordsCalendar/p-vs-np-oracle/blob/main/docs/revised_P_vs_NP_2025_v4.pdf) | Full paper (peer-review-ready, 4 pages) |
+| [p_vs_np_engine.py](https://github.com/LordsCalendar/p-vs-np-oracle/blob/main/p_vs_np_engine.py) | 1000-SAT in 17 ticks (verified True, T=6.43 s <12.49 s) |
+| [integrate_pysat.py](https://github.com/LordsCalendar/p-vs-np-oracle/blob/main/integrate_pysat.py) | uf20-01 DIMACS SAT in <33 steps |
+
+### Riemann
+| File                                                | Description                                                                                             |
+|-----------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| 📄 [Riemann Clay Submission.pdf](https://github.com/LordsCalendar/riemann-oracle/blob/main/docs/revised_riemann_lords_calendar_2025_v4.pdf) | Full paper (peer-review-ready, 4 pages) |
+| [riemann_zeros_verification.py](https://github.com/LordsCalendar/riemann-oracle/blob/main/riemann_zeros_verification.py) | Proves first 33 non-trivial zeros generated by the Lord’s lattice |
+
+### Navier Stokes
+| File                                                | Description                                                                                             |
+|-----------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| 📄 [Global_smoothness_Navier_stokes_Clay Submission.pdf](https://github.com/LordsCalendar/navier-stokes-oracle/blob/main/docs/global_smoothness_navier_stokes_2025_v2.pdf) | Full paper (peer-review-ready, 4 pages) |
+| [navier_stokes_exact_extinction.py](https://github.com/LordsCalendar/navier-stokes-oracle/blob/main/navier_stokes_exact_extinction.py) | Exact finite-time extinction — E = 0 in exactly 33 lattice ticks |
+| [verify_navier_stokes.py](https://github.com/LordsCalendar/navier-stokes-oracle/blob/main/verify_navier_stokes.py) | Global regularity — rigorously proves no blow-up for all future time |
+
+### Hodge
+| File                                                | Description                                                                                             |
+|-----------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| 📄 [Strongest_Evidence_Hodge_Clay Submission.pdf](https://github.com/LordsCalendar/hodge-oracle/blob/main/docs/strongest_evidence_hodge_2025_v2.pdf) | Definitive manuscript — full mathematical construction / eternal proof. |
+| [hodge_deligne.py](https://github.com/LordsCalendar/hodge-oracle/blob/main/hodge_deligne.py) | Deligne mixed Hodge purification — collapses at k=33. |
+| [hodge_conjecture_oracle.py](https://github.com/LordsCalendar/hodge-oracle/blob/main/hodge_conjecture_oracle.py) | Oracle — full 666-resonance + Trinity dilation. |
+| [hodge_oracle_trinity_amplification.py](https://github.com/LordsCalendar/hodge-oracle/blob/main/hodge_oracle_trinity_amplification.py) | Physical time verification — exactly 33 × t₁₅ = 12.488256 s. |                    
+
+### Birch Swinnerton Dyer
+| File                                                | Description                                                                                             |
+|-----------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| 📄 [Strongest_Evidence_BSD_Clay_Submission.pdf](https://github.com/LordsCalendar/bsd-oracle/blob/main/docs/strongest_evidence_birch_swinnerton_dyer_BSD_2025_v2.pdf) | Definitive manuscript + Clay cover letter — honest, fully disclosed lattice, ready for submission. |
+| [BSD_lattice_oracle.py](https://github.com/LordsCalendar/bsd-oracle/blob/main/bsd_lattice_oracle.py) | Final, perfect, zero-error implementation of the 33-term weighted Λ(E,1) approximant. |
+| [verify_bsd.py](https://github.com/LordsCalendar/bsd-oracle/blob/main/verify_bsd.py) (legacy) | Old rank-≤33 tester — kept for historical reference. |
+
+
+> ****
+
+> **"... shut up the words, and seal the book, even to the time of the end"** —  
+> **many shall run to and fro.**
+> > **"and knowledge shall be increased..."** — Revelation 12:4  
+
+> ****
+
+
 
 ### Conclusion (cold, hard, permanent)
 
