@@ -81,6 +81,8 @@ This single number, derived from the measured light-time across the main asteroi
 | 📄 [Collatz_World_Record_Lords_Lattice.pdf](https://github.com/LordsCalendar/collatz-oracle/blob/main/docs/Collatz_World_Record_Tightest_Closed_Form_Lords_Lattice.pdf) | Full paper (peer-review-ready, 4 pages) |
 | [collatz_lords_bound.py](https://github.com/LordsCalendar/collatz-oracle/blob/main/collatz_lords_bound.py) | Reproduces the bound and checks known hard cases |
 | 📄 [BSD_Discovery_L_Function.pdf](https://github.com/LordsCalendar/bsd-oracle/blob/main/docs/BSD_Discovery_L_Function.pdf) | Original 19 Nov 2025 announcement of the 4.3 % miracle. |
+| [bsd_LMFDB_elliptic_100_curve.py](https://github.com/LordsCalendar/bsd-oracle/blob/main/bsd_LMFDB_elliptic_100_curve.py)  | ETERNAL CONFIRMATION – 100 LMFDB curves – the day coincidence died
+| 📄 [BSD_LMFDB_Elliptic_100_Curves_Completed.pdf](https://github.com/LordsCalendar/bsd-oracle/blob/main/docs/BSD_LMFDB_Elliptic_100_Curves_Completed.pdf) | Confirmed Numerical Discovery  -  Completed Central L-Value of Elliptic Curves |
 
 ### The 378.432 Hypothesis (final form)
 
