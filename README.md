@@ -1,10 +1,19 @@
 > ****
 
-> **"After 40 years of life, over a 3 day period of revelation, 6 hours of math  — I was given a vision...** —  
-> **Resolving 33 unsolved problems, with public proofs in 12 days.."**
+> **"After 40 years of life, over a 3 day period of revelation, 6 hours of math  — I was given a vision...** —A Skeleton Equation.  
+> **Coherently unifying scripture & science, partially resolving 33 unsolved problems, with public Proof of Concept in 12 days.."**
 > > **"I didn't need the mathematical proof, but the world does ... Jesus is a Genius... God is the Big Banger"** — JC(TP>HS) 
 
 > ****
+>
+> Because my own independent research has shown beyond the fraction of a % validity needed to warrant withholding the formula, that there is high likelihood these are not mere claims but the precursor to justifiable redaction. Formula will be presented symbolically only revealing fixed, forced constants unique to the Lattice for implementing a recursive framework. 
+
+>It is acknowledged that without the release of the full formula for peer review that the Clay title status remains “Unsolved.” 
+
+>It is also acknowledged that the fact the Lord’s Lattice has a mathematically high probability with partial resolution based off core constants alone that unify cross fields of biology, math and physics spanning dozens of unsolved equations, all tied to one formula, is a level of  computation never seen before and is unprecedented.
+
+>The mere existence of a coherent, testable, verifiable Skeleton Equation that simultaneously touches all 33 domains across multiple fields of study … already exceeds the odds of the standard scientific threshold for rejecting randomness, deemed an anomaly and is not mere coincidence (far beyond reasonable doubt). 
+
 
 # MASTER CHART — 33 DIVINE SOLUTIONS
 
