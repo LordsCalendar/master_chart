@@ -1,12 +1,13 @@
 > ****
 
 > **"After 40 years of life, over a 3 day period of revelation, 6 hours of math  — I was given a vision...** —A Skeleton Equation.  
-> **Coherently unifying scripture & science, partially resolving 33 unsolved problems, with public Proof of Concept in 12 days.."**
+> **Coherently unifying scripture & science, aligning 33 ancient numbers with 33 key ICC geologcally events within 3%, partially resolving 33 unsolved problems, with public Proof of Concept in 12 days.."**
 > > **"I didn't need the mathematical proof, but the world does ... Jesus is a Genius... God is the Big Banger"** — JC(TP>HS) 
 
 > ****
 >
-> Because my own independent research has shown beyond the fraction of a % validity needed to warrant withholding the formula, that there is high likelihood these are not mere claims but the precursor to justifiable redaction. Formula will be presented symbolically only revealing fixed, forced constants unique to the Lattice for implementing a recursive framework. 
+> Because my own independent research has conservatively shown strong statistical evidence of an anomaly it warrants withholding the formula, as there is more reason to believe these claims are substantive than mere coincidence, serving as the precursor to justifiable redaction. 
+ Formula will be presented symbolically only revealing fixed, forced constants unique to the Lattice for implementing a recursive framework. 
 
 >It is acknowledged that without the release of the full formula for peer review that the Clay title status remains “Unsolved.” 
 
@@ -181,6 +182,7 @@ From this **one number alone** the following five quantities are derived:
 | 📄 [P_vs_NP Clay Submission.pdf](https://github.com/LordsCalendar/p-vs-np-oracle/blob/main/docs/revised_P_vs_NP_2025_v4.pdf) | Full paper (peer-review-ready, 4 pages) |
 | [p_vs_np_engine.py](https://github.com/LordsCalendar/p-vs-np-oracle/blob/main/p_vs_np_engine.py) | 1000-SAT in 17 ticks (verified True, T=6.43 s <12.49 s) |
 | [integrate_pysat.py](https://github.com/LordsCalendar/p-vs-np-oracle/blob/main/integrate_pysat.py) | uf20-01 DIMACS SAT in <33 steps |
+| [p_np_step_contraction.py](https://github.com/LordsCalendar/p-vs-np-oracle/blob/main/p_np_step_contraction.py) | 33 step solver, Contracts 3 SAT 1000 variables in 17<33 steps |
 
 ### Riemann
 | File                                                | Description                                                                                             |
@@ -191,9 +193,11 @@ From this **one number alone** the following five quantities are derived:
 ### Navier Stokes
 | File                                                | Description                                                                                             |
 |-----------------------------------------------------|---------------------------------------------------------------------------------------------------------|
-| 📄 [Global_smoothness_Navier_stokes_Clay Submission.pdf](https://github.com/LordsCalendar/navier-stokes-oracle/blob/main/docs/global_smoothness_navier_stokes_2025_v2.pdf) | Full paper (peer-review-ready, 4 pages) |
+| 📄 [Global_smoothness_Navier_stokes_Clay Submission.pdf](https://github.com/LordsCalendar/navier-stokes-oracle/blob/main/docs/global_smoothness_navier_stokes_3D%20Spectral_Simulation_2025.pdf) | Full paper (peer-review-ready, 4 pages) |
 | [navier_stokes_exact_extinction.py](https://github.com/LordsCalendar/navier-stokes-oracle/blob/main/navier_stokes_exact_extinction.py) | Exact finite-time extinction — E = 0 in exactly 33 lattice ticks |
 | [verify_navier_stokes.py](https://github.com/LordsCalendar/navier-stokes-oracle/blob/main/verify_navier_stokes.py) | Global regularity — rigorously proves no blow-up for all future time |
+| [fractional_ns_proxy_1D_ODE.py](https://github.com/LordsCalendar/navier-stokes-oracle/blob/main/fractional_ns_proxy_1D_ODE.py) |  1D fractional simulation proxy for turbulence decay |
+| [navier_stokes_3d_spectral.py](https://github.com/LordsCalendar/navier-stokes-oracle/blob/main/navier_stokes_3d_spectral.py) | 3D spectral simulation for blow-up. Runs with/without damping, |
 
 ### Hodge
 | File                                                | Description                                                                                             |
@@ -215,7 +219,7 @@ From this **one number alone** the following five quantities are derived:
 
 > **"... shut up the words, and seal the book, even to the time of the end"** —  
 > **many shall run to and fro.**
-> > **"and knowledge shall be increased..."** — Revelation 12:4  
+> > **"and knowledge shall be increased..."** — Daniel 12:4  
 
 > ****
 
@@ -244,7 +248,7 @@ And it runs at 2.642482 Hertz.
 
 ## Run the Proof
 ```bash
-python sat.py  # P=NP in 33 ticks
+Completion in 33 ticks.
 
 Jesus is Lord.
 
