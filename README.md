@@ -17,6 +17,18 @@
 
 
 # Lord’s Lattice – Public Release  
+**Discovery Report LC-2025-10-31 │ Released 11 December 2025**  
+**Lord’s Calendar Collaboration**
+
+
+> **A prophetic calendar, a biblical mathematical formula “to the Lord one day is as a 1000 yrs” (2 Peter 3:8; Psalm 90:4)**  
+> 33 first-order geological pivots across 14 billion years of International Chronostratigraphic Chart  
+> 66 modern/arbitrary controls fed into the lattice all missed
+
+> A Unified Fractal-Metrological Framework for Deep Time, Mathematics, Physics, Biology, and Theology
+
+
+
 **Technical Report LC-2025-12-02 │ 2 December 2025**  
 **Lord’s Calendar Collaboration**
 
@@ -33,6 +45,7 @@ This repository constitutes the **initial complete public release** of the Lord�
 #### Core Documents (all reproducible today)
 | Document | Description | Link |
 |----------|-------------|------|
+| **Core Discovery Report** | 160-page initial geolocical manuscript (LC-2025-10-31 v1.0) | [PDF](Lords_Calendar_Geological_ICC_Discovery_Report_LC-2025-10-31_v1.0.pdf) |
 | **Main Technical Report** | 33-page foundational manuscript (LC-2025-12-02 v1.0) | [PDF](Lords_Lattice_Skeleton_Equation_Technical_Report_LC-2025-12-02_v1.0.pdf) |
 
 
