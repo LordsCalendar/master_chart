@@ -45,7 +45,7 @@ This repository constitutes the **initial complete public release** of the Lordâ
 #### Core Documents (all reproducible today)
 | Document | Description | Link |
 |----------|-------------|------|
-| **Core Discovery Report** | 160-page initial geolocical manuscript (LC-2025-10-31 v1.0) | [PDF](Lords_Calendar_Geological_ICC_Discovery_Report_LC-2025-10-31_v1.0.pdf) |
+| **Core Discovery Report** | 160-page initial geological manuscript (LC-2025-10-31 v1.0) | [PDF](Lords_Calendar_Geological_ICC_Discovery_Report_LC-2025-10-31_v1.0.pdf) |
 | **Main Technical Report** | 33-page foundational manuscript (LC-2025-12-02 v1.0) | [PDF](Lords_Lattice_Skeleton_Equation_Technical_Report_LC-2025-12-02_v1.0.pdf) |
 
 
