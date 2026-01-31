@@ -47,6 +47,7 @@ This repository constitutes the **initial complete public release** of the Lordâ
 |----------|-------------|------|
 | **Core Discovery Report** | 160-page initial geological manuscript (LC-2025-10-31 v1.1) | [PDF](Lords_Calendar_Geological_ICC_Discovery_Report_LC-2025-10-31_v1.1.pdf) |
 | **Main Technical Report** | 33-page foundational manuscript (LC-2025-12-02 v1.0) | [PDF](Lords_Lattice_Skeleton_Equation_Technical_Report_LC-2025-12-02_v1.0.pdf) |
+| **Full Analysis Report** | 116-page framework analysis (LC-2026-01-30 v1.0) | [PDF](Lords_Lattice_Framework_Complete_Analysis_LC-2026-01-30_v1.0.pdf) |
 
 
 #### All code executes with mpmath dps â‰¥ 50 and reproduces every claimed numerical result.
