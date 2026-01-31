@@ -10,3 +10,8 @@ All documents are derived from the core discovery: a single algebraic equation *
 - **Pre-specified** — Biblical/calendar inputs pre-date modern measurements; no post-hoc fitting.
 - **Reproducible** — Most papers include runnable Python/Colab code or SymPy verification snippets.
 - **Anomaly strength** — Joint probability of alignments across domains exceeds 10⁻²⁰ (conservative adjusted).
+
+#### Core Documents 
+| Document | Description | Link |
+|----------|-------------|------|
+| **Fine-Structure Constant α ≈ 1/137 as Resonant Output of the Fractal Time Lattice (α ≈ 1/136.9)** | 4-page | [PDF](Fine_Structure_Constant_Resonance.pdf) |
