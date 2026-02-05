@@ -15,3 +15,4 @@ All documents are derived from the core discovery: a single algebraic equation *
 | Document | Description | Link |
 |----------|-------------|------|
 | **Fine-Structure Constant α ≈ 1/137 as Resonant Output of the Fractal Time Lattice (α ≈ 1/136.9)** | 4-page | [PDF](Fine_Structure_Constant_Resonance.pdf) |
+| **Planck Length & Time as Resonant Output of the Fractal Time Lattice (Mantissa Agreement 0.04%)** | 5-page | [PDF](Planck_Length_Time_Constant_Resonance.pdf) |
