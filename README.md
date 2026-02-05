@@ -45,15 +45,23 @@ This repository constitutes the **initial complete public release** of the Lord�
 #### Core Documents (all reproducible today)
 | Document | Description | Link |
 |----------|-------------|------|
-| **Core Discovery Report** | 160-page initial geological manuscript (LC-2025-10-31 v1.1) | [PDF](Lords_Calendar_Geological_ICC_Discovery_Report_LC-2025-10-31_v1.1.pdf) |
-| **Main Technical Report** | 33-page foundational manuscript (LC-2025-12-02 v1.0) | [PDF](Lords_Lattice_Skeleton_Equation_Technical_Report_LC-2025-12-02_v1.0.pdf) |
-| **Full Analysis Report** | 116-page framework analysis (LC-2026-01-30 v1.0) | [PDF](Lords_Lattice_Framework_Complete_Analysis_LC-2026-01-30_v1.0.pdf) |
+| **Core Discovery Report - Lords Calendar/Christ Clock** | 160-page initial geological manuscript (LC-2025-10-31 v1.1) | [PDF](Lords_Calendar_Geological_ICC_Discovery_Report_LC-2025-10-31_v1.1.pdf) |
+| **Main Technical Report - Cohesive Skeleton Equation** | 33-page foundational manuscript (LC-2025-12-02 v1.0) | [PDF](Lords_Lattice_Skeleton_Equation_Technical_Report_LC-2025-12-02_v1.0.pdf) |
+| **Full Analysis Report - Lords Lattice Framework** | 116-page framework analysis (LC-2026-01-30 v1.0) | [PDF](Lords_Lattice_Framework_Complete_Analysis_LC-2026-01-30_v1.0.pdf) |
 
 
 #### All code executes with mpmath dps ≥ 50 and reproduces every claimed numerical result.
 
 The closed-form algebraic equation **T(n) = 0** remains withheld pending controlled third-party verification.  
 The publicly released skeleton alone already exceeds any known coincidence threshold by many orders of magnitude.
+
+
+#### Resonant Documents 
+| Document | Description | Link |
+|----------|-------------|------|
+| **Fine-Structure Constant α ≈ 1/137 as Resonant Output of the Fractal Time Lattice (α ≈ 1/136.9)** | 4-page | [PDF](publications/Fine_Structure_Constant_Resonance.pdf) |
+| **Planck Length & Time as Resonant Output of the Fractal Time Lattice (Mantissa Agreement 0.04%)** | 5-page | [PDF](publications/Planck_Length_Time_Constant_Resonance.pdf) |
+
 
 **Lord’s Calendar Collaboration**  
 2 December 2025
