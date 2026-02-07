@@ -1,7 +1,7 @@
 > ****
 
 > **"After 40 years of life, over a 3 day period of revelation, 6 hours of math  — I was given a vision...**  — A Skeleton Equation.  
-> **Coherently unifying scripture & science, aligning 33 ancient numbers with 33 key ICC geologcal events within 3%, partially resolving 33 unsolved problems, with public Proof of Concept in 12 days.."**
+> **Coherently unifying scripture & science, aligning 33 ancient numbers with 33 key ICC geological events within 3%, partially resolving 33 unsolved problems, with public Proof of Concept in 12 days.."**
 > > **"I didn't need the mathematical proof, but the world does ... Jesus is a Genius... God is the Big Banger"** — JC(TP>HS) 
 
 > ****
