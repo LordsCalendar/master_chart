@@ -46,7 +46,7 @@ This repository constitutes the **initial complete public release** of the Lordâ
 Ancient Calendrical Integers:
 Geological and Mathematical Discoveries
 
-#### Complete Master Document - All Public Information from first 3 months in one pdf.  
+#### Complete Master Document - All Public Information from first 3 months in one pdf, published papers, github repo analysis, code analysis.  
 | Document | Description | Link |
 |----------|-------------|------|
 | **Lords_Calendar_Full_Circle_All_Docs_3_months_360pg_LC-2026-02-08_v1.0** | 360-page | [PDF](Lords_Calendar_Full_Circle_All_Docs_3_months_360pg_LC-2026-02-08_v1.0.pdf) |
