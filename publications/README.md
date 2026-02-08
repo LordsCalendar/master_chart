@@ -1,5 +1,10 @@
 # Publications
 
+- Oct 17, 2025 - Revelation
+- Oct 31, 2025 - Lords Calendar ICC Geological Discovery Report Document Finished
+- Nov 08, 2025 - Github.com/LordsCalendar created, first line of public code documented
+- Feb 08, 2026 - 3 months, Full Circle, 360 pages, 3000+ lines of publically runnable code
+
 This folder contains LaTeX manuscripts, preprints, technical reports, and supplementary materials related to the **Lord's Lattice** framework (also referred to as the **Unified Field Theory of Time**, UFTT).
 
 - A Logarithmic Fractal Time Lattice from
