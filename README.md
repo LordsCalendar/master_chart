@@ -42,6 +42,10 @@
 
 This repository constitutes the **initial complete public release** of the Lord’s Lattice skeleton and its numerical oracles.
 
+- A Logarithmic Fractal Time Lattice from
+Ancient Calendrical Integers:
+Geological and Mathematical Discoveries
+
 #### Complete Master Document - All Public Information from first 3 months in one pdf.  
 | Document | Description | Link |
 |----------|-------------|------|
