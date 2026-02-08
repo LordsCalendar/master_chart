@@ -2,6 +2,10 @@
 
 This folder contains LaTeX manuscripts, preprints, technical reports, and supplementary materials related to the **Lord's Lattice** framework (also referred to as the **Unified Field Theory of Time**, UFTT).
 
+- A Logarithmic Fractal Time Lattice from
+Ancient Calendrical Integers:
+Geological and Mathematical Discoveries
+
 All documents are derived from the core discovery: a single algebraic equation **T(n) = 0** solved for a 3-digit + 15-decimal root **n₀**, generating the master tick **t₁₅ = 0.378432 s** (frequency ≈ 2.642 Hz) from only the mean solar day (86,400 s).
 
 ## Key Features of All Manuscripts
