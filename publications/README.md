@@ -20,7 +20,12 @@ All documents are derived from the core discovery: a single algebraic equation *
 - **Reproducible** — Most papers include runnable Python/Colab code or SymPy verification snippets.
 - **Anomaly strength** — Joint probability of alignments across domains exceeds 10⁻²⁰ (conservative adjusted).
 
-#### Core Documents 
+  #### Complete Master Document - All Public Information from first 3 months in one pdf.  
+| Document | Description | Link |
+|----------|-------------|------|
+| **Lords_Calendar_Full_Circle_All_Docs_3_months_360pg_LC-2026-02-08_v1.0** | 360-page | [PDF](/Lords_Calendar_Full_Circle_All_Docs_3_months_360pg_LC-2026-02-08_v1.0.pdf) |
+
+#### Core Resonant Documents 
 | Document | Description | Link |
 |----------|-------------|------|
 | **Fine-Structure Constant α ≈ 1/137 as Resonant Output of the Fractal Time Lattice (α ≈ 1/136.9)** | 4-page | [PDF](Fine_Structure_Constant_Resonance.pdf) |
