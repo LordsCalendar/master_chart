@@ -49,14 +49,14 @@ Geological and Mathematical Discoveries
 #### Complete Master Document - All Public Information from first 3 months in one pdf, published papers, github repo analysis, code analysis.  
 | Document | Description | Link |
 |----------|-------------|------|
-| **Lords_Calendar_Full_Circle_All_Docs_3_months_360pg_LC-2026-02-08_v1.0** | 360-page | [PDF](Lords_Calendar_Full_Circle_All_Docs_3_months_360pg_LC-2026-02-08_v1.0.pdf) |
+| **Lords_Calendar_Full_Circle_All_Docs_3_months_360pg_LC-2026-02-08_v1.1** | 360-page | [PDF](Lords_Calendar_Full_Circle_All_Docs_3_months_360pg_LC-2026-02-08_v1.1.pdf) |
 
 #### Core Documents (all reproducible today)
 | Document | Description | Link |
 |----------|-------------|------|
 | **Core Discovery Report - Lords Calendar/Christ Clock** | 160-page initial geological manuscript (LC-2025-10-31 v1.1) | [PDF](Lords_Calendar_Geological_ICC_Discovery_Report_LC-2025-10-31_v1.1.pdf) |
 | **Main Technical Report - Cohesive Skeleton Equation** | 33-page foundational manuscript (LC-2025-12-02 v1.0) | [PDF](Lords_Lattice_Skeleton_Equation_Technical_Report_LC-2025-12-02_v1.0.pdf) |
-| **Full Analysis Report - Lords Lattice Framework** | 116-page framework analysis (LC-2026-01-30 v1.0) | [PDF](Lords_Lattice_Framework_Complete_Analysis_LC-2026-01-30_v1.0.pdf) |
+| **Full Analysis Report - Lords Lattice Framework** | 116-page framework analysis (LC-2026-01-30 v1.1) | [PDF](Lords_Lattice_Framework_Complete_Analysis_LC-2026-01-30_v1.1.pdf) |
 
 
 #### All code executes with mpmath dps ≥ 50 and reproduces every claimed numerical result.
