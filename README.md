@@ -328,6 +328,55 @@ The microtubule is the hardware on which the lattice executes the conscious mome
 The soul has been measured.  
 And it runs at 2.642482 Hertz.
 
+# 1 YEAR UPDATE (17 November 2026)
+
+---
+
+## Astrophysics & Quantum Mechanics Resonances
+
+Collection of 24 multi-scale resonance studies between the Lord’s Fractal Time Lattice and measured quantities in astrophysics, quantum mechanics, quantum biology, and laboratory physics.
+
+**Summary**  
+The studies document multi-scale numerical resonances that arise when the lattice master tick \( t_{15} = 0.378432 \) s (frequency \( \approx 2.64248 \) Hz) is used as the sole temporal input. Within this framework the documents derive the speed of light, the fine-structure constant, Planck’s constant, and the Planck scale as resonant outputs, and show alignment with 19 electromagnetic and quantum quantities, black-hole QPOs, Cosmic Noon, the Hubble constant, Cherenkov thresholds, NMR couplings, and Orch-OR parameters. All results are reported as found within the lattice.
+
+**Full collection:**  
+[https://github.com/LordsCalendar/astrophysics-quantum-resonances](https://github.com/LordsCalendar/astrophysics-quantum-resonances)
+
+### Master Compilation
+- [00 — A Unified Fractal Time Lattice (Master)](https://github.com/LordsCalendar/astrophysics-quantum-resonances/blob/main/00-A_Unified_Fractal_Time_Lattice_Master.pdf)
+
+### Individual Studies
+
+| No. | Document | Link |
+|-----|----------|------|
+| 01 | Core Table of Contents Summary | [PDF](https://github.com/LordsCalendar/astrophysics-quantum-resonances/blob/main/papers/01-Core_Table_Contents_Summary.pdf) |
+| 02 | Scripture to Derived Mathematics: Unifying GR and QM | [PDF](https://github.com/LordsCalendar/astrophysics-quantum-resonances/blob/main/papers/02-Scripture_to_Derived_Mathematics_Unifying_GR_and_QM.pdf) |
+| 03 | Quantum Consciousness (Orch-OR Expanded) | [PDF](https://github.com/LordsCalendar/astrophysics-quantum-resonances/blob/main/papers/03-Quantum_Consciousness_orch_or_expanded.pdf) |
+| 04 | Universal 2.64 Hz Resonant Continuum | [PDF](https://github.com/LordsCalendar/astrophysics-quantum-resonances/blob/main/papers/04-2_6_quantum_coupling_cross_diciplinary_astrophysics_chemistry_consciousness.pdf) |
+| 05 | Biophysical Audio & Visual Entrainment | [PDF](https://github.com/LordsCalendar/astrophysics-quantum-resonances/blob/main/papers/05-biophysical_audio_visual.pdf) |
+| 06 | Euler Resonance | [PDF](https://github.com/LordsCalendar/astrophysics-quantum-resonances/blob/main/papers/06-Eulers_Resonance_v1.pdf) |
+| 07 | Lorentz–Einstein Relativistic Time Dilation | [PDF](https://github.com/LordsCalendar/astrophysics-quantum-resonances/blob/main/papers/07-Lorentz_Einstein_Relativistic_Time_Dilation_136.pdf) |
+| 08 | Speed of Light Derivation | [PDF](https://github.com/LordsCalendar/astrophysics-quantum-resonances/blob/main/papers/08-Speed_of_Light_Derivation_v1.pdf) |
+| 09 | Speed of Light Textbook Proof | [PDF](https://github.com/LordsCalendar/astrophysics-quantum-resonances/blob/main/papers/09-Speed_of_Light_Textbook_Proof_v1.pdf) |
+| 10 | Fine-Structure Constant Resonance | [PDF](https://github.com/LordsCalendar/astrophysics-quantum-resonances/blob/main/papers/10-Fine_Structure_Constant_Resonance_v1.pdf) |
+| 11 | Dual-Scale Resonance Fine-Structure Constant | [PDF](https://github.com/LordsCalendar/astrophysics-quantum-resonances/blob/main/papers/11-Dual_Scale_Resonance_Fine_Structure_Constant_v2_REDACTED.pdf) |
+| 12 | Prediction at the Z-Boson Scale | [PDF](https://github.com/LordsCalendar/astrophysics-quantum-resonances/blob/main/papers/12-Prediction_at_the_Z_Boson_Scale_v1.pdf) |
+| 13 | Planck Length and Time Resonance | [PDF](https://github.com/LordsCalendar/astrophysics-quantum-resonances/blob/main/papers/13-Planck_Length_Time_Constant_Resonance_v1.pdf) |
+| 14 | Planck’s Constant Derivation | [PDF](https://github.com/LordsCalendar/astrophysics-quantum-resonances/blob/main/papers/14-Planck_Constant_v1.pdf) |
+| 15 | Asteroid Belt Centroid Derivation | [PDF](https://github.com/LordsCalendar/astrophysics-quantum-resonances/blob/main/papers/15-Asteroid_Belt_Derivation_v1.pdf) |
+| 16 | 2.64 Hz Black Hole QPO Resonance | [PDF](https://github.com/LordsCalendar/astrophysics-quantum-resonances/blob/main/papers/16-Flickering_2_64_QPO_Blackhole_v1.pdf) |
+| 17 | Black Holes to Cosmic Noon | [PDF](https://github.com/LordsCalendar/astrophysics-quantum-resonances/blob/main/papers/17-Blackholes_Cosmic_Noon_v1.pdf) |
+| 18 | Hubble Constant Resonance | [PDF](https://github.com/LordsCalendar/astrophysics-quantum-resonances/blob/main/papers/18-Hubble_tension_lattice_Scriptural_v1.pdf) |
+| 19 | Proton Cherenkov Threshold | [PDF](https://github.com/LordsCalendar/astrophysics-quantum-resonances/blob/main/papers/19-Cherenkov_Threshold_Pivot_Derivation_v1.pdf) |
+| 20 | Water as Universal Resonant Medium | [PDF](https://github.com/LordsCalendar/astrophysics-quantum-resonances/blob/main/papers/20-Cherenkov_water_neutron_star.pdf) |
+| 21 | Nuclear Spin Resonances (2.6 Hz) | [PDF](https://github.com/LordsCalendar/astrophysics-quantum-resonances/blob/main/papers/21-Nuclear_Spin_Resonance_2_6_chemistry.pdf) |
+| 22 | Vacuum Constants (ε₀, μ₀, e) | [PDF](https://github.com/LordsCalendar/astrophysics-quantum-resonances/blob/main/papers/22-Deriving_Vacuum_Constants_Permittivity_Permeability_and_Elementary_Charge_v2.pdf) |
+| 23 | Electromagnetic and Quantum Constants (19 Quantities) | [PDF](https://github.com/LordsCalendar/astrophysics-quantum-resonances/blob/main/papers/23-Deriving_Electromagnetic_and_Quantum_Constants_v2.pdf) |
+| 24 | Φ-Scaling from 2.64 Hz to Mu / Low-Beta | [PDF](https://github.com/LordsCalendar/astrophysics-quantum-resonances/blob/main/papers/24-Brain_to_Brain_2_64.pdf) |
+
+---
+
+
 ## Run the Proof
 ```bash
 Completion in 33 ticks.
