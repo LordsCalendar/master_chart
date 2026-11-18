@@ -376,6 +376,25 @@ The studies document multi-scale numerical resonances that arise when the lattic
 
 ---
 
+---
+
+---
+
+## Perelman Lattice Validation — Paths B–F & Lattice Operator Theory
+
+Two companion notes (September 2026) examining lattice compatibility with Hamilton–Perelman Ricci flow on the Einstein \( S^3 \).
+
+**Documents:**
+- [Poincaré Extension Paths B–F: Perelman Keystone Validation](https://github.com/LordsCalendar/perelman-lattice-validation/blob/main/Poincaré_Perelman_Paths_B-F_Keystone_Validation_LC-2026-09-13.pdf)
+- [Lattice Operator Theory and the Lyapunov Hypothesis](https://github.com/LordsCalendar/perelman-lattice-validation/blob/main/Lattice_Operator_Theory_Lyapunov_Hypothesis_LC-2026-09-14-LOT.pdf)
+
+**Repository:**  
+[https://github.com/LordsCalendar/perelman-lattice-validation](https://github.com/LordsCalendar/perelman-lattice-validation)
+
+These notes treat the lattice parameters as initial data and a reporting clock only. They record compatibility checks against solved Hamilton–Perelman theorems and do not replace Perelman’s proof.
+
+---
+
 
 ## Run the Proof
 ```bash
